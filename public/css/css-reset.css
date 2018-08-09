@@ -17,13 +17,13 @@ html {
 body {
     min-height: 100%;
     height: auto;
-    width: 1300px;
+    width: 1000px;
     margin: 0 auto;
     background: rgb(204, 204, 204);
 }
 
 header {
-    width: 1300px;
+    width: 1000px;
     height: 100px;
     line-height: 100px;
     vertical-align: middle;
@@ -79,7 +79,7 @@ footer span a:active {
 
 .body {
     margin: 0 auto;
-    width: 1100px;
+    width: 800px;
     padding: 100px 0 80px 0;
 }
 

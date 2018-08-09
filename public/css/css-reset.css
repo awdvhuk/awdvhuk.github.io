@@ -4,7 +4,7 @@
     box-sizing: border-box;
     position: relative;
     text-align: center;
-    font: 7vh 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font: 40px 'Helvetica Neue', Helvetica, Arial, sans-serif;
     outline: none;
     user-select: none;
 }
@@ -17,15 +17,15 @@ html {
 body {
     min-height: 100%;
     height: auto;
-    width: 100%;
+    width: 1300px;
     margin: 0 auto;
     background: rgb(204, 204, 204);
 }
 
 header {
-    width: 100%;
-    height: 13vh;
-    line-height: 13vh;
+    width: 1300px;
+    height: 100px;
+    line-height: 100px;
     vertical-align: middle;
     color: white;
     background: grey;
@@ -64,6 +64,7 @@ footer {
 
 footer span,
 footer span a {
+    font-size: 25px;
     color: rgb(110, 110, 110);
     text-decoration: none;
 }
@@ -92,6 +93,7 @@ h1 {
 
 .time {
     position: absolute;
-    top: 2.2vh;
-    right: 2.2vw;
+    top: 30px;
+    right: 30px;
+    font-size: 30px;
 }
